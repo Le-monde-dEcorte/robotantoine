@@ -14,11 +14,11 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@types/i18next-fs-backend": "^1.1.5",
-		"@types/node": "^22.10.1",
+		"@types/node": "^22.10.7",
 		"@types/pg": "^8.11.10",
 		"rimraf": "^6.0.1",
 		"source-map-support": "0.5.21",
-		"typescript": "^5.7.2"
+		"typescript": "^5.7.3"
 	},
 	"dependencies": {
 		"@sleepymaid/db": "workspace:^",
@@ -26,11 +26,11 @@
 		"@sleepymaid/logger": "workspace:^",
 		"@sleepymaid/shared": "workspace:^",
 		"@sleepymaid/util": "workspace:^",
-		"discord.js": "^14.16.3",
-		"drizzle-orm": "^0.36.4",
-		"i18next": "^24.0.5",
+		"discord.js": "^14.17.3",
+		"drizzle-orm": "^0.38.4",
+		"i18next": "^24.2.1",
 		"i18next-fs-backend": "^2.6.0",
-		"iovalkey": "^0.2.1",
+		"iovalkey": "^0.2.2",
 		"module-alias": "^2.2.3",
 		"path": "0.12.7",
 		"pg": "^8.13.1"

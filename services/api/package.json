@@ -13,10 +13,10 @@
 	"author": "Ecorte",
 	"license": "MIT",
 	"devDependencies": {
-		"@types/node": "^22.10.1",
+		"@types/node": "^22.10.7",
 		"rimraf": "^6.0.1",
 		"source-map-support": "0.5.21",
-		"typescript": "^5.7.2"
+		"typescript": "^5.7.3"
 	},
 	"dependencies": {
 		"@hono/node-server": "^1.13.7",
@@ -24,8 +24,8 @@
 		"@sleepymaid/handler": "workspace:^",
 		"@sleepymaid/logger": "workspace:^",
 		"@sleepymaid/shared": "workspace:^",
-		"drizzle-orm": "^0.36.4",
-		"hono": "^4.6.12",
+		"drizzle-orm": "^0.38.4",
+		"hono": "^4.6.17",
 		"module-alias": "^2.2.3",
 		"path": "0.12.7"
 	}

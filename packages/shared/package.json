@@ -25,22 +25,22 @@
 	"author": "Ecorte",
 	"license": "MIT",
 	"devDependencies": {
-		"@swc/core": "^1.9.3",
+		"@swc/core": "^1.10.8",
 		"@types/module-alias": "^2.0.4",
-		"@types/node": "^22.10.1",
+		"@types/node": "^22.10.7",
 		"rimraf": "^6.0.1",
 		"source-map-support": "0.5.21",
 		"tsup": "^8.3.5",
-		"typescript": "^5.7.2"
+		"typescript": "^5.7.3"
 	},
 	"dependencies": {
 		"@napi-rs/canvas": "^0.1.65",
 		"@paralleldrive/cuid2": "^2.2.2",
 		"@sleepymaid/handler": "workspace:^",
-		"discord.js": "^14.16.3",
-		"drizzle-orm": "^0.36.4",
+		"discord.js": "^14.17.3",
+		"drizzle-orm": "^0.38.4",
 		"fuse.js": "^7.0.0",
-		"i18next": "^24.0.5",
+		"i18next": "^24.2.1",
 		"module-alias": "^2.2.3"
 	}
 }
